@@ -1,4 +1,4 @@
-# simpleportfolio
+# simple portfolio
 
 A new Flutter application.
 
